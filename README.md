@@ -1,5 +1,5 @@
-# meteor_score keepapp
-# sample application using react and meteor as a backend
+# Meteor_score keepapp
+# Sample application using react and meteor as a backend
  for running need to install node meteor and react react-dom numeral and supporting librarry form npm 
 # What is Meteor?
 
