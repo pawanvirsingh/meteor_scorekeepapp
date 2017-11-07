@@ -1,6 +1,6 @@
 # meteor_scorekeepapp
 # sample application using react and meteor as a backend
-# for running need to install node meteor and react react-dom numeral and supportign librarry form npm 
+ for running need to install node meteor and react react-dom numeral and supporting librarry form npm 
 # What is Meteor?
 
 Meteor is a full-stack JavaScript platform for developing modern web and mobile applications. Meteor includes a key set of technologies for building connected-client reactive applications, a build tool, and a curated set of packages from the Node.js and general JavaScript community.
@@ -20,3 +20,7 @@ Stack Overflow is the best place to ask (and answer!) technical questions. Be su
 Visit the Meteor discussion forums to announce projects, get help, talk about the community, or discuss changes to core.
 Atmosphere is the repository of community packages designed especially for Meteor.
 Awesome Meteor is a community-curated list of packages and resources.
+
+# mongo is used with meteor
+#DDP is used by framework for database syc in server and client side  minimongo
+synchronization is fast enough over the client using websoket.
